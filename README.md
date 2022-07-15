@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kornel</h1>
-<h3 align="center">I am Blockchain developer. Experience in creating NFT collections, building NFT marketplaces, L2 solutions (ImmutableX and ZkSync) on Ethereum blockchain. </h3>
+<h3 align="center">I am Blockchain developer. Experience in creating NFT collections, building NFT marketplaces, lazy minting, L2 solutions (ImmutableX and ZkSync) on Ethereum blockchain.</h3>
 
 #### ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a) ![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a) ![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a) ![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a) ![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a) ![](https://img.shields.io/badge/Standard-EIP712-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a) ![](https://img.shields.io/badge/Layer2-ImmutableX-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a) ![](https://img.shields.io/badge/Layer2-ZkSync-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
 
