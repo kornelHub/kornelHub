@@ -24,3 +24,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kornelhub&show_icons=true&locale=en&layout=compacta" alt="kornelhub" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kornelhub&show_icons=true&locale=en" alt="kornelhub" /></p>
+
+**Where you can find me 👁️ 👁️**
+
+<a href="https://skygate.io/"><img alt="" title="" src="https://img.shields.io/badge/-SkyGate-blue?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAFgAAABYCAMAAABGS8AGAAABm1BMVEUATu8AUPAAUfAAVPAAV%2FAAWfAAW%2FAAXPAAXfAAXvAAX%2FAAYPAAYfAAYvAAY%2FAAZPAAZfAAZvAAZ%2FAAaPEAafEAavEAa%2FEBa%2FECa%2FEFa%2FEGbvELbvEPbPERbPESbfEUbfEVbfEWbfEYcPEZbvEabvEacPEbbvEcbvEccfEdbvEeb%2FEfcfEgb%2FEgcfEhcfEib%2FEjb%2FEjcPEkcPElcPEldPEmcPEmcfEncfEocfE3ePFAevJMgPJRg%2FJTg%2FJUhPJZh%2FJbiPJciPNdifNeifNfivNjjPNtkvN1lvR3mPR5mfSBnvSCn%2FSGovSOp%2FWQqfWSqvWXrfacsfafs%2Faitfajt%2Fakt%2FaluPeouvetvveuvvevvvewwPexwPexwfe0w%2Fi5x%2Fi6yPi8yfi9yvi%20y%2Fi%2FzPnAzfnCzvnDz%2FnG0fnK1PrK1frL1frM1vrN1%2FrO1%2FrO2PrQ2frQ2vrS2%2FrT3PrU3PrU3frW3vvX3%2FvZ4Pvi6Pzk6vzm6%2Fzu8v3v8%2F3w8%2F309v71%20P72%20f75%20v75%20%2F76%2FP%2F8%2Ff%2F8%2Fv%2F9%2Fv%2F%2F%2F%2F8B3bXeAAABrklEQVR42u3XA4MjQRAF4DgZe862EZ5tG9H5YuPM1c%2Fe7jhr1LpeNNPd74tlCS1QEEYYYYSnCcIII4yw98SYeGFg79E9O%2Fuy54gXBJZKI2NSkWDgzFg4tzbgk%2Fv2Hg%20Cw3tlZuOFyz5W3AwLS%20eSf2lxsHaTCQDCbLjbLbIBMFh72lsuMlCwV2u2Boabl7c2A8Hr79FO%20pDLc75Ot8oiEKxFSeWP9XAouNv2nWwOuSHh35YdZHPrrbfx%20HsdCDYf0E79mlvQdm1RSaCevBObWk9e%2FcVVRtoF%20AaR33Sa%2F5MXhSAYHGTyPeVPniAUTOS737rtzwLgh9AGdv%2FD3J9W%2FcwBIFjXNG37MUPynH32k9YjGgysvXz9KnJjO9napzl%20kXpGgoEZ%20on51R6g23yWbFdFGFjK084Hp6SqgvaPbCZkGHjb9eZLOB2LpYbp1gMT6MljU33tP0wQCA6wpd72le1gr2M%2Fc%2F9Hu%2Fvl9DrIb2nDfen5x2zm3aNT3EHg3xW7dUWSFOMw%2FsRaJXBhLFyCgbfefvK4L0%2FubIGAiayPyVgX%2F0AijDDCCCOMMMIIjwLXQ3zOyzRavgAAAABJRU5ErkJggg%3D%3D&logoColor=white"/></a>
+
+
