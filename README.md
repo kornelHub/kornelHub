@@ -8,7 +8,7 @@ I am also experince with creating NFT collection on Solana using CandyMachine V2
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/🔗-kornel-światłowski-🔗-9aa55118a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="🔗-kornel-światłowski-🔗-9aa55118a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kornelswiatlowskiblockchaindev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="🔗-kornel-światłowski-🔗-9aa55118a" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14071081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14071081" height="30" width="40" /></a>
 <a href="https://instagram.com/0xkornel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0xkornel" height="30" width="40" /></a>
 </p>
